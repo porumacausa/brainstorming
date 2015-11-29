@@ -2,6 +2,7 @@
 ---
 
 - Comparação de preço de produtos de bens alimentares essenciais
+	- Permitir a inserção de produtos através de scan de codigo de barras/QRCode
 - Central meteorologica fazendo uso IoT
 - App de trivia em conjunto com a comunidade [ZWAME](https://github.com/zwamedevelopment)
 - App de percursos/geocaching
