@@ -18,3 +18,8 @@
   - localização de parques perto
   - informação de preços
   - informação de lotação
+- Plataforma de Crowdworking
+	- São colocadas ideias por satartups com o objectivo de encontrarem valências técnicas. Ex: programadores, designers, UXrs em em retorno dividirem um pouco do capital com quem entra com trabalho. 
+- Plataforma de social founding (João Almeida)
+	- Plataforma para financiar pessoas que necessitam de equipamentos médicos. Isto pode ser feito via associações, pela contribuição de particulares ou de empresas. Ver questão de nível fiscal.
+- Plataforma de trocas de bens usados com App para as várias plataformas, nomeadamente Windows, WPhone, Windows Iot core, Xbox, Android e Iphone 
