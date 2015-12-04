@@ -23,3 +23,4 @@
 - Plataforma de social founding (João Almeida)
 	- Plataforma para financiar pessoas que necessitam de equipamentos médicos. Isto pode ser feito via associações, pela contribuição de particulares ou de empresas. Ver questão de nível fiscal.
 - Plataforma de trocas de bens usados com App para as várias plataformas, nomeadamente Windows, WPhone, Windows Iot core, Xbox, Android e Iphone 
+- Mapa com localização e informação de organizações comunitárias, pontos de entrega e recolha de bens ou ajuda. 
