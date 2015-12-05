@@ -165,3 +165,8 @@
 - geolocalizado
 - listagem de produtos vendidos
 - tipo slant
+
+
+
+
+### Rede IOT de análise e optimização de rega (agricultura)
