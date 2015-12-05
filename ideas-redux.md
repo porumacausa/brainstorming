@@ -1,7 +1,6 @@
 ## find & compare
 ### Comparação de preço de produtos de bens alimentares essenciais
 ### Comparador de preços dos combustiveis
-## where is what
 ### Mapa com localização e informação de organizações comunitárias, pontos de entrega e recolha de bens ou ajuda.
 ### Mapa de localização geográfica de instituições
 ### Portal de comercio local
@@ -32,8 +31,12 @@
 
 
 
-### Plataforma de Crowdworking
-### Microcrédito e bitcoin
+## Plataforma de Crowdworking
+
+
+
+
+## Microcrédito e bitcoin
 
 
 
