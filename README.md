@@ -73,3 +73,95 @@
 
 
 ### Mapa com localização e informação de organizações comunitárias, pontos de entrega e recolha de bens ou ajuda.
+
+
+
+
+### Portal de administração de instituições estatais
+- juntas de freguesias
+- câmaras
+- centros de saúde
+- - etc.
+
+
+
+
+### Fila de espera para pitch de ideias
+
+
+
+
+### Tamagotchi do Super Mário com inteligência artificial
+
+
+
+
+### Plataforma para doações e procura de bens
+- encontro entre doadores e instituições
+- bens ou dinheiro
+
+
+
+### Microcrédito e bitcoin
+
+
+
+
+### Portal de listagem de bens para emprestar
+- reduzir o consumo
+
+
+
+
+### Listagem de lojas de tecidos (cosplay)
+- comparativo de preços e stocks
+- localização
+
+
+
+
+### Listagem e partilha de refeições
+
+
+
+
+### Portal de imóveis
+- tipo AirBnB
+- aluguer a longo prazo
+ 
+
+
+
+### Mapa de localização geográfica de instituições
+- perto de mim
+
+
+
+
+### Motor de análise de SEO e recomendação para melhorar search ranking
+
+
+
+
+### Diretório de pontos de acesso de Internet
+
+
+
+
+### Rede wi-fi mesh comunitário
+
+
+
+
+### Motor de localização de escritórios lean
+- geolocalização
+- tomadas energia
+- wifi
+
+
+
+
+### Portal de comercio local
+- geolocalizado
+- listagem de produtos vendidos
+- tipo slant
