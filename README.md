@@ -170,3 +170,7 @@
 
 
 ### Rede IOT de análise e optimização de rega (agricultura)
+
+
+#Comunicação
+Canal de discussão - https://discord.gg/0gU0CNS8dfApAOBB [Discordapp](https://discordapp.com/)
